@@ -34,5 +34,3 @@ Melalui proyek ini, saya bertujuan untuk menguasai dan menerapkan hal-hal beriku
 
 ---
 
-## 📁 Struktur Proyek
-
